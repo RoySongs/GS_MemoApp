@@ -12,7 +12,7 @@ class MemoListTableViewController: UITableViewController {
 
     let formatter:  DateFormatter = {
         let f = DateFormatter()
-        f.dateStyle = .long
+        f.dateStyle = .medium
         f.timeStyle = .short
         f.locale = Locale(identifier: "Ko_kr")
         return f
