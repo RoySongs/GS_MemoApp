@@ -16,6 +16,7 @@
 		B040183924D1962300DB9001 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = B040183824D1962300DB9001 /* Model.swift */; };
 		B040183B24D19A4500DB9001 /* MemoListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B040183A24D19A4500DB9001 /* MemoListTableViewController.swift */; };
 		B04332A624D66B1900427B94 /* ComposeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B04332A524D66B1900427B94 /* ComposeViewController.swift */; };
+		B04332B024D682A600427B94 /* UIViewcController+Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = B04332AF24D682A600427B94 /* UIViewcController+Alert.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		B040183824D1962300DB9001 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 		B040183A24D19A4500DB9001 /* MemoListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoListTableViewController.swift; sourceTree = "<group>"; };
 		B04332A524D66B1900427B94 /* ComposeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComposeViewController.swift; sourceTree = "<group>"; };
+		B04332AF24D682A600427B94 /* UIViewcController+Alert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewcController+Alert.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 			isa = PBXGroup;
 			children = (
 				B040183824D1962300DB9001 /* Model.swift */,
+				B04332AF24D682A600427B94 /* UIViewcController+Alert.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 			files = (
 				B03BC55B24CD7A5900F9260C /* AppDelegate.swift in Sources */,
 				B03BC55D24CD7A5900F9260C /* SceneDelegate.swift in Sources */,
+				B04332B024D682A600427B94 /* UIViewcController+Alert.swift in Sources */,
 				B040183B24D19A4500DB9001 /* MemoListTableViewController.swift in Sources */,
 				B04332A624D66B1900427B94 /* ComposeViewController.swift in Sources */,
 				B03BC56524CD7A5900F9260C /* GS_Memo.xcdatamodeld in Sources */,
