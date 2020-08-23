@@ -17,6 +17,7 @@
 		B040183B24D19A4500DB9001 /* MemoListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B040183A24D19A4500DB9001 /* MemoListTableViewController.swift */; };
 		B04332A624D66B1900427B94 /* ComposeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B04332A524D66B1900427B94 /* ComposeViewController.swift */; };
 		B04332B024D682A600427B94 /* UIViewcController+Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = B04332AF24D682A600427B94 /* UIViewcController+Alert.swift */; };
+		B090128F24F23ED300AEABF9 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B090128E24F23ED300AEABF9 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		B040183A24D19A4500DB9001 /* MemoListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoListTableViewController.swift; sourceTree = "<group>"; };
 		B04332A524D66B1900427B94 /* ComposeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComposeViewController.swift; sourceTree = "<group>"; };
 		B04332AF24D682A600427B94 /* UIViewcController+Alert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewcController+Alert.swift"; sourceTree = "<group>"; };
+		B090128E24F23ED300AEABF9 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				B03BC56B24CD7A5B00F9260C /* Info.plist */,
 				B03BC56324CD7A5900F9260C /* GS_Memo.xcdatamodeld */,
 				B040183A24D19A4500DB9001 /* MemoListTableViewController.swift */,
+				B090128E24F23ED300AEABF9 /* DetailViewController.swift */,
 			);
 			path = GS_Memo;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 				B04332A624D66B1900427B94 /* ComposeViewController.swift in Sources */,
 				B03BC56524CD7A5900F9260C /* GS_Memo.xcdatamodeld in Sources */,
 				B040183924D1962300DB9001 /* Model.swift in Sources */,
+				B090128F24F23ED300AEABF9 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
